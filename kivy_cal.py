@@ -5,6 +5,7 @@ from kivy.lang import Builder
 from kivy.core.window import Window
 
 #Set the app size
+
 Window.size = (400,600)
 
 #Designate Our .kv design file
